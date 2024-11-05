@@ -1,0 +1,61 @@
+.navbar-one {
+  height: 100px;
+  width: 20%;
+  background-color: blue;
+  font-size: 30px;
+  color: wheat;
+  text-align: center;
+  float: left;
+}
+
+.navbar-two {
+  height: 100px;
+  width: 80%;
+  font-size: 20px;
+  background-color: brown;
+  color: wheat;
+  float: right;
+}
+.items {
+  display: flex;
+}
+.itemes {
+  list-style: none;
+  padding: 3%;
+}
+.bg-slider {
+  height: 650px;
+  background-image: url(../images/pexels-joshsorenson-1714208.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+.main-box {
+  display: flex;
+  margin-top: 5%;
+  padding: 10%;
+  background-color: darkorchid;
+}
+.main-box1 {
+  height: 400px;
+  width: 50%;
+  background-color: blue;
+  color: wheat;
+  border: 2px solid black;
+  margin-left: 5%;
+  text-align: center;
+}
+
+footer {
+  margin-top: 5%;
+  background-color: black;
+  color: wheat;
+  padding: 5%;
+}
+.container {
+  display: flex;
+}
+.footer-map {
+  margin-left: 5%;
+}
